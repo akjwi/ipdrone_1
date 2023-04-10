@@ -33,8 +33,8 @@ print (red+"""
 ╚═╝╚═╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
                                                       v 1.0
 """+red)
-print (lgreen+bold+"         <===[[ coded by N17RO ]]===> \n"+clear)
-print (yellow+bold+"   <---(( search on youtube Noob Hackers ))--> \n"+clear)
+print (lgreen+bold+"         <===[[ coded by AHOORABM ]]===> \n"+clear)
+print (yellow+bold+"   <---(( search on SOROUSH+ BLACK JUSTICE ))--> \n"+clear)
 
 
 ip = args.target
